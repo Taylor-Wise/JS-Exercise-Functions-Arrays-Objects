@@ -1,3 +1,12 @@
 {
-  "standard.enable": false
+  "standard.enable": false,
+  "cSpell.words": [
+    "Fortwo",
+    "Galant",
+    "Infiniti",
+    "Leia",
+    "Miata",
+    "Quattro",
+    "Windstar"
+  ]
 }
